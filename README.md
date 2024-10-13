@@ -1,6 +1,4 @@
-# Creating the README content in markdown format
-readme_content_md = """
-# Port Scanner
+
 
 ## Description
 
